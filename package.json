@@ -1,0 +1,12 @@
+{
+  "name": "enemhelper",
+  "version": "1.0.0",
+  "description": "A simple script for correcting Enem tests with different templates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beserrovsky",
+  "license": "GPL-3.0-or-later"
+}
